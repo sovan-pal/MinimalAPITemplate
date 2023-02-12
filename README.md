@@ -1,0 +1,2 @@
+# MinimalAPITemplate
+Minimal API Template
